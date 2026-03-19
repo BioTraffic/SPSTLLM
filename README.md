@@ -14,7 +14,7 @@ SPSTLLM/
 │── experiments/         # Logs and results
 │── README.md
 
-git clone https://github.com/yourname/SPSTLLM.git
+git clone https://github.com/BioTraffic/SPSTLLM/
 cd SPSTLLM
 
 conda create -n spstllm python=3.10
